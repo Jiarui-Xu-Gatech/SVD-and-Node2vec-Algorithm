@@ -15,9 +15,11 @@ Using embeddings for node classification
 # 2.Node2Vec:
 
 pretrained_node2vec_embeddings_16.emb
+
 ![image](https://github.com/Jiarui-Xu-Gatech/SVD-and-Node2vec-Algorithm/blob/main/F2.png)
 
 
 
 pretrained_node2vec_embeddings_128.emb
+
 ![image](https://github.com/Jiarui-Xu-Gatech/SVD-and-Node2vec-Algorithm/blob/main/F3.png)
